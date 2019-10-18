@@ -4,9 +4,9 @@ Built an Android Applciation, that makes RESTful API calls to the Apple top paid
 
 User can longClick gesture and select applications, and add to filterd list, which is a horizontal Recycler view. 
 
-Adding applications to filted list removes applications from the main list. 
+Adding applications to filtered list removes applications from the main list. 
 
-Deleting applications from filterd list, puts back applications to main list. 
+Deleting applications from filtered list, puts back applications to main list. 
 
 
 
