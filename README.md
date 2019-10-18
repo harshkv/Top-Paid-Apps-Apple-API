@@ -6,7 +6,7 @@ User can longClick gesture and select applications, and add to filterd list, whi
 
 Adding applications to filted list removes applications from the main list. 
 
-Deleting of applications from fliterd list, puts back applications to main list. 
+Deleting applications from filterd list, puts back applications to main list. 
 
 
 
